@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hola 👋, I'm Francisco Franco  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">Un apasionado estudiante de Ingeniería Biomédica e Instrumentación. <in</h3>
 
-<!--
-**Fefranco11/fefranco11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-------------------
+&emsp;
+<h3 align="left">
+-💡 Me interesa ... apredender cosas nuevas y Beisbol. 
+  
+-📖 Actualmente estoy aprendiendo ... Python.
 
-Here are some ideas to get you started:
+-📫 Para contactarme ... francocampos1520@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</h3>
+
